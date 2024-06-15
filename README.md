@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm Arvind</h1>
-<h3 align="center">"Coding Chronicles: Debugging is like being a detective in a crime movie where you’re also the murderer.”</h3>
+<h3 align="center">"Debugging is like being a detective in a crime movie where you’re also the murderer.”</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="aravindraprasad" /> </p>
